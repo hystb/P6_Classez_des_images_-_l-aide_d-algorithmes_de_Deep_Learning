@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet constitue le sixième volet du parcours Data Analyst d’OpenClassrooms. Il a pour objectif de développer un modèle de classification d’images en utilisant des techniques d’apprentissage profond (Deep Learning). Le projet repose sur l’utilisation de réseaux de neurones convolutifs (CNN) pour classer des images issues du dataset CIFAR-10.
+Ce projet constitue le sixième volet du parcours Data Analyst d’OpenClassrooms. Il a pour objectif de développer un modèle de classification d’images en utilisant des techniques d’apprentissage profond (Deep Learning). Le projet repose sur l’utilisation de réseaux de neurones convolutifs (CNN) pour classer des images.
 
 ## Objectifs pédagogiques
 
